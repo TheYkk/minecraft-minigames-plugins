@@ -1,0 +1,9 @@
+main: net.theykk.battle.Main
+name: BattleCraft
+version: 1.0
+author: TheYkk
+
+commands:
+    spal:
+        usage: /<command>
+        description: Spawner Al
